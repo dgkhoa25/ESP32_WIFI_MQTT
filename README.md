@@ -2,7 +2,7 @@ This project connects to the broker mqtt://industrial.api.ubidots.com:1883.
 
 It uses ESP-MQTT library which implements mqtt client to connect to mqtt broker.
 
-## How to use example
+## How to use
 
 ### Hardware Required
 
